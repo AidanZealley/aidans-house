@@ -1,7 +1,7 @@
 export default {
   github: 'https://github.com/shuding/nextra',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ` – Aidan's House`,
+  titleSuffix: ' – Aidan\'s House',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Aidan's House</span>
