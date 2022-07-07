@@ -1,7 +1,7 @@
 {
   "index": "Welcome",
-  "bins": "Waste Disposal",
   "cats": "Cats",
   "kitchen": "Kitchen",
-  "office": "Office"
+  "office": "Office",
+  "bins": "Waste Disposal"
 }

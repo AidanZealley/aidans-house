@@ -6,7 +6,7 @@ export default {
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Aidan's House</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        How to not die
+        How to survive
       </span>
     </>
   ),
