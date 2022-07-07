@@ -1,8 +1,7 @@
 {
   "index": "Welcome",
-  "get-started": "Get Started",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced",
-  "cats": "Cats"
+  "bins": "Waste Disposal",
+  "cats": "Cats",
+  "kitchen": "Kitchen",
+  "office": "Office"
 }
